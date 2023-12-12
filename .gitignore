@@ -1,0 +1,20 @@
+# Visual Studio files
+.vscode/
+.vs/
+*/bin/
+*/obj/
+
+# NuGet packages
+*.nupkg
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.sqlite
