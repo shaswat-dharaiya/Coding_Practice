@@ -18,10 +18,6 @@ class Solution:
         
         return [ anagrams for anagrams in list_anagram.values()  ]
 
-
-
-
-
 # Approach 1 - Recursion
 # def build_group(strs: List[str]) -> List[List[str]]:
 #     group_anagram = []
